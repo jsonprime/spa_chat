@@ -9,9 +9,7 @@
         // Provides chat slider capability
         var spa = (function ($) {
             // Module scope variables
-            var
-                // Set constants
-                configMap = {
+            var configMap = {
                     extended_height : 434,
                     extended_title : 'Click to retract',
                     retracted_height : 16,
